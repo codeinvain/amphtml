@@ -171,7 +171,7 @@ declareExtension('amp-subscriptions-google', '0.1');
  * @deprecated `amp-slides` is deprecated and will be deleted before 1.0.
  * Please see {@link AmpCarousel} with `type=slides` attribute instead.
  */
-declareExtension('amp-slides', '0.1');
+declareExtension('amp-cloudinary', '0.1',false);
 declareExtension('amp-social-share', '0.1', {hasCss: true});
 declareExtension('amp-timeago', '0.1');
 declareExtension('amp-twitter', '0.1');
